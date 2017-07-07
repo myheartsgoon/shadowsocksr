@@ -1,0 +1,1 @@
+web: sh shadowsocks/run.sh
